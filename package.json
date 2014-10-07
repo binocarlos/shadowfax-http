@@ -1,0 +1,30 @@
+{
+  "name": "shadowfax-http",
+  "version": "0.0.0",
+  "description": "Event handler for shadowfax forms that posts data to a gandalf server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/shadowfax-http.git"
+  },
+  "keywords": [
+    "authentication",
+    "angular",
+    "form",
+    "login",
+    "register"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/shadowfax-http/issues"
+  },
+  "homepage": "https://github.com/binocarlos/shadowfax-http",
+  "dependencies": {
+    "angular-bsfy": "^1.2.23-1",
+    "debug": "^2.0.0"
+  }
+}
