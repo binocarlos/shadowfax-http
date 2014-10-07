@@ -1,6 +1,6 @@
 {
   "name": "shadowfax-http",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Event handler for shadowfax forms that posts data to a gandalf server",
   "main": "index.js",
   "scripts": {
