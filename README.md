@@ -1,7 +1,7 @@
 shadowfax-http
 ==============
 
-Angular HTTP service for [shadowfax](https://github.com/binocarlos/shadowfax) login form.
+Angular HTTP service for [shadowfax](https://github.com/binocarlos/shadowfax) login forms.
 
 Connects to a REST based backend to perform login/register actions - [gandalf](https://github.com/binocarlos/gandalf) will work out of the box.
 
