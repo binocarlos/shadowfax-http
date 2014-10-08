@@ -10,7 +10,7 @@ Connects to a REST based backend to perform login/register actions - [gandalf](h
 Install the module to your project:
 
 ```
-$ npm install binocarlos/shadowfax-http --save
+$ npm install shadowfax-http --save
 ```
 
 ## usage
